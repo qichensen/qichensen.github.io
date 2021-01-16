@@ -8,6 +8,7 @@ keyword: "MATLAB, PYTHON"
 url: "qcs.engineer"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qichensen/qichensen.github.io" # you code repository
+github:   is_project_page: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
