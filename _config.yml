@@ -7,7 +7,7 @@ description: "非著名无人机摄影师，MATLAB程序员，IEEE预备役会�
 keyword: "MATLAB, PYTHON"
 url: "qcs.engineer"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
+github_repo: "https://github.com/qichensen/qichensen.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
